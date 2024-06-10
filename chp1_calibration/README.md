@@ -16,7 +16,7 @@ HOW TO RUN THE CODE ?
 
 1) Run calibration_chp1.py
 2) In a terminal put the path of chp1_calibration folder
-3) Also in the terminal tape : run calibration_chp1.py data_example.xlsx OUTPUT --ancienne_sensibilite 7.9 
+3) Also in the terminal tape : "run calibration_chp1.py data_example.xlsx OUTPUT --ancienne_sensibilite 7.9"
 (You can change the old sensibility here)
 4) Complete the information requested via the terminal as follows:
 
